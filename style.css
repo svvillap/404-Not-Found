@@ -20,7 +20,6 @@ section {
 
 body {
     width: 1440px;
-    height: 1080px;
     top: -541px;
     left: -939px;
     border-radius: 8px;
@@ -40,14 +39,10 @@ body header h1 {
     letter-spacing: -0.08em;
     color: #333333;
     margin-top: 20px;
-    margin-left: 5rem;
 }
 
 h1 {
-    width: 586px;
-    height: 190px;
     top: 265px;
-    left: 735px;
     font-size: 64px;
     font-weight: 700;
     line-height: 95px;
@@ -88,12 +83,11 @@ footer {
     letter-spacing: 0em;
     text-align: center;
     color: #BDBDBD;
-    margin-top: 15rem;
+    margin-top: 10rem;
 }
 
 @media only screen and (max-width: 375px) {
         body {width: 375px;
-            height: 949px;
             top: -541px;
             left: 601px;
             border-radius: 8px;
@@ -105,10 +99,8 @@ footer {
             left: 44px;
         }
         .bad-news h1{
-            width: 350px;
             height: 142px;
             top: 407px;
-            left: 48px;
             font-family: monospace;
             font-size: 48px;
             font-weight: 700;
@@ -138,8 +130,6 @@ footer {
             left: 24px;
         }
         footer {
-            top: 908px;
-            left: 46px;
             font-family: monospace;
             font-size: 14px;
             font-weight: 700;
