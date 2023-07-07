@@ -20,4 +20,4 @@
 
 ## Overview
 
-![screenshot](https://github.com/svvillap/404-Not-Found/tree/70d974b13a02f1bafba431aa3007d5adcf3ba46e/proyecto)
+![screenshot](https://github.com/svvillap/404-Not-Found/blob/main/webpage.png)
