@@ -73,8 +73,6 @@ h1 {
 
 
 footer {
-    height: 17px;
-    Top: 1039px;
     Left: 577px;
     text-align: center;
     font-size: 14px;
@@ -83,7 +81,6 @@ footer {
     letter-spacing: 0em;
     text-align: center;
     color: #BDBDBD;
-    margin-top: 10rem;
 }
 
 @media only screen and (max-width: 375px) {
@@ -135,7 +132,7 @@ footer {
             font-weight: 700;
             line-height: 17px;
             letter-spacing: 0em;
-            margin-top: 13rem;
+            margin-top: 6.5rem;
         }
         .grid-layout {
             display: grid;
