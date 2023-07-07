@@ -8,7 +8,6 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
     <a href="https://github.com/svvillap/404-Not-Found">
       Solution
     </a>
