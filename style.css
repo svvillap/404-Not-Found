@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.grid-layout {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-items: center;
+}
+
+
+section {
+    text-align: left;
+    padding-top: 50px;
+}
+
+body {
+    width: 1440px;
+    height: 1080px;
+    top: -541px;
+    left: -939px;
+    border-radius: 8px;
+    font-family: monospace;
+    border: 4px #333333;
+    margin: auto;
+    
+}
+
+body header h1 {
+    height: 25px;
+    top: 40px;
+    left: 77px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    color: #333333;
+    margin-top: 20px;
+    margin-left: 5rem;
+}
+
+h1 {
+    width: 586px;
+    height: 190px;
+    top: 265px;
+    left: 735px;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    padding-bottom: 50px;
+
+}
+
+.text-unavailable {
+    width: 381px;
+    height: 108px;
+    top: 491px;
+    left: 736px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+}
+
+.backhomebutton {
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    color: whitesmoke;
+    font-weight: bold;
+    background-color: #333333;
+}
+
+
+footer {
+    height: 17px;
+    Top: 1039px;
+    Left: 577px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #BDBDBD;
+    margin-top: 15rem;
+}
+
+@media only screen and (max-width: 375px) {
+        body {width: 375px;
+            height: 949px;
+            top: -541px;
+            left: 601px;
+            border-radius: 8px;
+            gap: 10px;}
+        .scarecrow img {
+            width: 286px;
+            height: 238px;
+            top: 109px;
+            left: 44px;
+        }
+        .bad-news h1{
+            width: 350px;
+            height: 142px;
+            top: 407px;
+            left: 48px;
+            font-family: monospace;
+            font-size: 48px;
+            font-weight: 700;
+            line-height: 71px;
+            letter-spacing: -0.035em;
+            text-align: left;
+            
+        }
+        .text-unavailable {
+            width: 328px;
+            height: 81px;
+            top: 579px;
+            left: 23px;
+            font-family: monospace;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 27px;
+            letter-spacing: -0.035em;
+            text-align: left;
+
+
+        }
+        .backhomebutton{ 
+            width: 216px;
+            height: 68px;
+            top: 726px;
+            left: 24px;
+        }
+        footer {
+            top: 908px;
+            left: 46px;
+            font-family: monospace;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 17px;
+            letter-spacing: 0em;
+            margin-top: 13rem;
+        }
+        .grid-layout {
+            display: grid;
+            grid-template-columns: auto;
+            justify-items: center;
+        } 
+}
+
+    
