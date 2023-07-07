@@ -20,4 +20,4 @@
 
 ## Overview
 
-![screenshot](https://github.com/svvillap/404-Not-Found/blob/main/webpage.png) (https://github.com/svvillap/404-Not-Found/blob/main/movilpage.png)
+![screenshot](https://github.com/svvillap/404-Not-Found/blob/main/webpage.png) 
